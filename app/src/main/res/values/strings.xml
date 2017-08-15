@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Knock Lock</string>
+    <string name="title">Knock Lock</string>
+    <string name="general">General</string>
+    <string name="lock_amp_feel"><![CDATA[Lock & Feel]]></string>
+    <string name="security_on_off">Security on/off</string>
+    <string name="change_password">Change Password</string>
+    <string name="use_24_hour_format">Use 24 hour format</string>
+    <string name="show_knock_grid">Show Knock Grid</string>
+    <string name="other">Other</string>
+    <string name="change_wallpaper">Change Wallpaper</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more_apps">More Apps</string>
+    <string name="change_language">Change Language</string>
+    <string name="have_error">Have error!</string>
+    <string name="wrong_password">You have entered the wrong password</string>
+</resources>
